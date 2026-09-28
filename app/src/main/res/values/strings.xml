@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FencePing</string>
+    <string name="trial_expired">Die 10-tägige Testphase ist abgelaufen. Die App ist gesperrt.</string>
+    <string name="trial_remaining">Beta-Demo · noch %d Tage</string>
+    <string name="channel_name">Geofence-Alarme</string>
+    <string name="channel_desc">Benachrichtigung wenn du den gesetzten GPS-Punkt betrittst — auch bei geschlossener App.</string>
+</resources>
